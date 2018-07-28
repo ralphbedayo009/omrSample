@@ -1,0 +1,2 @@
+# omrSample
+For omr project
